@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         <meta name="referrer" content="no-referrer" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Image src={'/em.jpg'} layout="fill" objectFit="contain" alt="em yeu" />
+      <Image src={'/em.jpeg'} layout="fill" objectFit="contain" alt="Hình ảnh thao quyên" />
     </div>
   );
 };
